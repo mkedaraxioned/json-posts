@@ -122,9 +122,24 @@ li {
 button {
   padding:10px 20px;
   background-color: #0F0;
-  font-size: 20px;
+  font-size: 25px;
 }
 
+.post {
+  border:2px solid black;
+}
+
+.post-title {
+  font-size: 35px;
+  font-weight: bold;
+  margin: 0 auto; 
+  text-align: center;
+}
+
+.post-desc {
+  font-size: 20px;
+  margin: 0 auto;
+}
 
 
 
