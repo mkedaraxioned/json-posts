@@ -129,7 +129,15 @@ li {
   font-weight: bold;
   text-align: center;
 }
-  
+
+.see-less_btn {
+  padding: 10px 20px;
+  margin: 15px auto 0;
+  display: block;
+  background-color: #F00;
+  font-size: 25px;
+}
+
 .load_more_btn {
   padding: 10px 20px;
   margin: 15px auto 0;
