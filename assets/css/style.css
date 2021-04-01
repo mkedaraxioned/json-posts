@@ -119,26 +119,43 @@ li {
 /*=================================
   main styling starts here
 =================================*/
-button {
-  padding:10px 20px;
+
+.section1 > div {
+  padding-top: 100px;
+}
+  
+.section-title {
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+  
+.load_more_btn {
+  width: fit-content;
+  padding: 10px 20px;
+  margin: 15px auto 0;
+  display: block;
   background-color: #0F0;
   font-size: 25px;
 }
 
 .post {
-  border:2px solid black;
+  padding: 50px 25px;
+  border: 2px solid black;
 }
 
+.posts-div {  margin-top: 50px; }
+  
 .post-title {
+  margin: 0 auto 20px;
   font-size: 35px;
   font-weight: bold;
-  margin: 0 auto; 
   text-align: center;
 }
 
 .post-desc {
-  font-size: 20px;
   margin: 0 auto;
+  font-size: 20px;
 }
 
 
